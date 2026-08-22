@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0263-ugly-number](https://github.com/dinesh78395-gif/leetcodem/tree/master/0263-ugly-number) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/dinesh78395-gif/leetcodem/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
+| [3622-check-divisibility-by-digit-sum-and-product](https://github.com/dinesh78395-gif/leetcodem/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## Array
 |  |
 | ------- |
