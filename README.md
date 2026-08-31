@@ -102,4 +102,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/dinesh78395-gif/leetcodem/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
+## Tree
+|  |
+| ------- |
+| [0098-validate-binary-search-tree](https://github.com/dinesh78395-gif/leetcodem/tree/master/0098-validate-binary-search-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0098-validate-binary-search-tree](https://github.com/dinesh78395-gif/leetcodem/tree/master/0098-validate-binary-search-tree) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0098-validate-binary-search-tree](https://github.com/dinesh78395-gif/leetcodem/tree/master/0098-validate-binary-search-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0098-validate-binary-search-tree](https://github.com/dinesh78395-gif/leetcodem/tree/master/0098-validate-binary-search-tree) |
 <!---LeetCode Topics End-->
