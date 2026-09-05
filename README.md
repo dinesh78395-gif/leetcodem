@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3718-smallest-missing-multiple-of-k](https://github.com/dinesh78395-gif/leetcodem/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3875-construct-uniform-parity-array-i](https://github.com/dinesh78395-gif/leetcodem/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/dinesh78395-gif/leetcodem/tree/master/3876-construct-uniform-parity-array-ii) |
+| [3904-smallest-stable-index-ii](https://github.com/dinesh78395-gif/leetcodem/tree/master/3904-smallest-stable-index-ii) |
 ## Simulation
 |  |
 | ------- |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1872-stone-game-viii](https://github.com/dinesh78395-gif/leetcodem/tree/master/1872-stone-game-viii) |
+| [3904-smallest-stable-index-ii](https://github.com/dinesh78395-gif/leetcodem/tree/master/3904-smallest-stable-index-ii) |
 ## Zero-Sum Game
 |  |
 | ------- |
