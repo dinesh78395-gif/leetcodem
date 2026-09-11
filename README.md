@@ -123,10 +123,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/dinesh78395-gif/leetcodem/tree/master/0098-validate-binary-search-tree) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/dinesh78395-gif/leetcodem/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/dinesh78395-gif/leetcodem/tree/master/0098-validate-binary-search-tree) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/dinesh78395-gif/leetcodem/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -135,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/dinesh78395-gif/leetcodem/tree/master/0098-validate-binary-search-tree) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/dinesh78395-gif/leetcodem/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Linked List
 |  |
 | ------- |
