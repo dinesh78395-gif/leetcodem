@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0263-ugly-number](https://github.com/dinesh78395-gif/leetcodem/tree/master/0263-ugly-number) |
 | [0836-rectangle-overlap](https://github.com/dinesh78395-gif/leetcodem/tree/master/0836-rectangle-overlap) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/dinesh78395-gif/leetcodem/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1872-stone-game-viii](https://github.com/dinesh78395-gif/leetcodem/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/dinesh78395-gif/leetcodem/tree/master/1927-sum-game) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/dinesh78395-gif/leetcodem/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Combinatorics
 |  |
 | ------- |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/dinesh78395-gif/leetcodem/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/dinesh78395-gif/leetcodem/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 ## Number Theory
 |  |
@@ -73,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0115-distinct-subsequences](https://github.com/dinesh78395-gif/leetcodem/tree/master/0115-distinct-subsequences) |
 | [0940-distinct-subsequences-ii](https://github.com/dinesh78395-gif/leetcodem/tree/master/0940-distinct-subsequences-ii) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/dinesh78395-gif/leetcodem/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1872-stone-game-viii](https://github.com/dinesh78395-gif/leetcodem/tree/master/1872-stone-game-viii) |
 ## Minimax
 |  |
@@ -81,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/dinesh78395-gif/leetcodem/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1872-stone-game-viii](https://github.com/dinesh78395-gif/leetcodem/tree/master/1872-stone-game-viii) |
 | [3904-smallest-stable-index-ii](https://github.com/dinesh78395-gif/leetcodem/tree/master/3904-smallest-stable-index-ii) |
 ## Zero-Sum Game
