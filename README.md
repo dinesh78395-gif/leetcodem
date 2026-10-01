@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/dinesh78395-gif/leetcodem/tree/master/0020-valid-parentheses) |
 | [0115-distinct-subsequences](https://github.com/dinesh78395-gif/leetcodem/tree/master/0115-distinct-subsequences) |
 | [0940-distinct-subsequences-ii](https://github.com/dinesh78395-gif/leetcodem/tree/master/0940-distinct-subsequences-ii) |
 | [1096-brace-expansion-ii](https://github.com/dinesh78395-gif/leetcodem/tree/master/1096-brace-expansion-ii) |
@@ -200,5 +201,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/dinesh78395-gif/leetcodem/tree/master/0020-valid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/dinesh78395-gif/leetcodem/tree/master/1096-brace-expansion-ii) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/dinesh78395-gif/leetcodem/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
