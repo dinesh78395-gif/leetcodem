@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/dinesh78395-gif/leetcodem/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/dinesh78395-gif/leetcodem/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/dinesh78395-gif/leetcodem/tree/master/0032-longest-valid-parentheses) |
 | [0115-distinct-subsequences](https://github.com/dinesh78395-gif/leetcodem/tree/master/0115-distinct-subsequences) |
 | [0940-distinct-subsequences-ii](https://github.com/dinesh78395-gif/leetcodem/tree/master/0940-distinct-subsequences-ii) |
 | [1096-brace-expansion-ii](https://github.com/dinesh78395-gif/leetcodem/tree/master/1096-brace-expansion-ii) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/dinesh78395-gif/leetcodem/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/dinesh78395-gif/leetcodem/tree/master/0032-longest-valid-parentheses) |
 | [0115-distinct-subsequences](https://github.com/dinesh78395-gif/leetcodem/tree/master/0115-distinct-subsequences) |
 | [0940-distinct-subsequences-ii](https://github.com/dinesh78395-gif/leetcodem/tree/master/0940-distinct-subsequences-ii) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/dinesh78395-gif/leetcodem/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
@@ -205,10 +207,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/dinesh78395-gif/leetcodem/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/dinesh78395-gif/leetcodem/tree/master/0032-longest-valid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/dinesh78395-gif/leetcodem/tree/master/1096-brace-expansion-ii) |
 ## Bracket Sequences
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/dinesh78395-gif/leetcodem/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/dinesh78395-gif/leetcodem/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/dinesh78395-gif/leetcodem/tree/master/0032-longest-valid-parentheses) |
 <!---LeetCode Topics End-->
