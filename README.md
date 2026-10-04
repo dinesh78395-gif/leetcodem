@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/dinesh78395-gif/leetcodem/tree/master/0678-valid-parenthesis-string) |
 | [0940-distinct-subsequences-ii](https://github.com/dinesh78395-gif/leetcodem/tree/master/0940-distinct-subsequences-ii) |
 | [1096-brace-expansion-ii](https://github.com/dinesh78395-gif/leetcodem/tree/master/1096-brace-expansion-ii) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/dinesh78395-gif/leetcodem/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/dinesh78395-gif/leetcodem/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1927-sum-game](https://github.com/dinesh78395-gif/leetcodem/tree/master/1927-sum-game) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/dinesh78395-gif/leetcodem/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
@@ -213,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/dinesh78395-gif/leetcodem/tree/master/0032-longest-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/dinesh78395-gif/leetcodem/tree/master/0678-valid-parenthesis-string) |
 | [1096-brace-expansion-ii](https://github.com/dinesh78395-gif/leetcodem/tree/master/1096-brace-expansion-ii) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/dinesh78395-gif/leetcodem/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -220,4 +222,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/dinesh78395-gif/leetcodem/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/dinesh78395-gif/leetcodem/tree/master/0032-longest-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/dinesh78395-gif/leetcodem/tree/master/0678-valid-parenthesis-string) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/dinesh78395-gif/leetcodem/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 <!---LeetCode Topics End-->
