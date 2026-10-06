@@ -4,8 +4,8 @@ class Solution:
         for ch in s:
             if ch == "(":
                 opened += 1
-            elif opened:  # close a pending "("
+            elif opened:  
                 opened -= 1
-            else:  # ")" with nothing to close -> add a "("
+            else:  
                 added += 1
-        return added + opened  # still-open "(" need a ")" each
+        return added + opened  
