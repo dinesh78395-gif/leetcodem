@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/dinesh78395-gif/leetcodem/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1872-stone-game-viii](https://github.com/dinesh78395-gif/leetcodem/tree/master/1872-stone-game-viii) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/dinesh78395-gif/leetcodem/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/dinesh78395-gif/leetcodem/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/dinesh78395-gif/leetcodem/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/dinesh78395-gif/leetcodem/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/dinesh78395-gif/leetcodem/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/dinesh78395-gif/leetcodem/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/dinesh78395-gif/leetcodem/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/dinesh78395-gif/leetcodem/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/dinesh78395-gif/leetcodem/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Bit Manipulation
@@ -87,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/dinesh78395-gif/leetcodem/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1927-sum-game](https://github.com/dinesh78395-gif/leetcodem/tree/master/1927-sum-game) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/dinesh78395-gif/leetcodem/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/dinesh78395-gif/leetcodem/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/dinesh78395-gif/leetcodem/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/dinesh78395-gif/leetcodem/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Game Theory
@@ -159,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1096-brace-expansion-ii](https://github.com/dinesh78395-gif/leetcodem/tree/master/1096-brace-expansion-ii) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/dinesh78395-gif/leetcodem/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/dinesh78395-gif/leetcodem/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/dinesh78395-gif/leetcodem/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Tree
@@ -230,4 +234,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/dinesh78395-gif/leetcodem/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/dinesh78395-gif/leetcodem/tree/master/1021-remove-outermost-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/dinesh78395-gif/leetcodem/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2333-minimum-sum-of-squared-difference](https://github.com/dinesh78395-gif/leetcodem/tree/master/2333-minimum-sum-of-squared-difference) |
 <!---LeetCode Topics End-->
